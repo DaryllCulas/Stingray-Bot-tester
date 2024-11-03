@@ -59,6 +59,7 @@ This project is only for educational purpose and the chatbot was made in wit.ai
     "node-fetch": "^3.3.2",
     "readline-sync": "^1.4.10"
   }
+  
     }
 
 

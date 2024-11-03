@@ -4,7 +4,7 @@ import readLineSync from 'readline-sync';
 // const fetch = require('node-fetch');
 // const readLineSync = require('readline-sync');
 
-const WIT_AI_TOKEN = 'QHQILCCIV6JUA4E7RNAEW3LBHAFMAHU6';
+const WIT_AI_TOKEN = 'GET_YOUR_SERVER_ACCESS_TOKEN_TO_PASTE_HERE';
 
 
 async function getWithResponse(message) {

@@ -41,8 +41,9 @@ This project is only for educational purpose and the chatbot was made in wit.ai
    ```
 
 7. Make sure the content of package.json is correct like this:
-   ```
+
    {
+
   "name": "sting-chatbot",
   "version": "1.0.0",
   "type": "module",
@@ -60,7 +61,6 @@ This project is only for educational purpose and the chatbot was made in wit.ai
   }
     }
 
-   ```
 
 8. Run the bot
    ```

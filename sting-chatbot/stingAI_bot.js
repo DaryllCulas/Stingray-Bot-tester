@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 import readLineSync from 'readline-sync';
 
-const WIT_AI_TOKEN = 'PUT_YOUR_WIT_SERVER_ACCESS_TOKEN_HERE';
+const WIT_AI_TOKEN = '7EJHHH4T5OIUH27GMOQP3XSXKTH6R44F';
 
 /**
  * Send message to Wit.ai API and get the response

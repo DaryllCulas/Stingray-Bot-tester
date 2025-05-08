@@ -1,0 +1,6 @@
+{
+    "name": "get_cvsu_goals",
+    "entities": [
+        "full_cvsu_goals:full_cvsu_goals"
+    ]
+}

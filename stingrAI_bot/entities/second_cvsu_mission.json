@@ -1,0 +1,24 @@
+{
+    "name": "second_cvsu_mission",
+    "roles": [
+        "second_cvsu_mission"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "complete mission of Cavite State University?",
+            "synonyms": [
+                "complete mission of cavite state university?"
+            ]
+        },
+        {
+            "keyword": "second mission of Cavite State University?",
+            "synonyms": [
+                "second mission of cavite state university?"
+            ]
+        }
+    ]
+}

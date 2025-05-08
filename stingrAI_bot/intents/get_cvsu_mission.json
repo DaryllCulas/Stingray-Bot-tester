@@ -1,0 +1,8 @@
+{
+    "name": "get_cvsu_mission",
+    "entities": [
+        "first_cvsu_mission:first_cvsu_mission",
+        "full_cvsu_mission:full_cvsu_mission",
+        "second_cvsu_mission:second_cvsu_mission"
+    ]
+}

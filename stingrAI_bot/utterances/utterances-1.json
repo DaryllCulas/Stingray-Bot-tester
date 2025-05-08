@@ -1,0 +1,104 @@
+{
+    "utterances": [
+        {
+            "text": "What is the complete mission of Cavite State University?",
+            "entities": [
+                {
+                    "entity": "full_cvsu_mission:full_cvsu_mission",
+                    "start": 12,
+                    "end": 56,
+                    "body": "complete mission of Cavite State University?",
+                    "entities": [
+                        {
+                            "entity": "first_cvsu_mission:first_cvsu_mission",
+                            "start": 0,
+                            "end": 44,
+                            "body": "complete mission of Cavite State University?",
+                            "entities": []
+                        }
+                    ]
+                }
+            ],
+            "traits": [
+                {
+                    "trait": "wit$sentiment",
+                    "value": "neutral"
+                },
+                {
+                    "trait": "informative",
+                    "value": "plain"
+                }
+            ],
+            "intent": "get_cvsu_mission"
+        },
+        {
+            "text": "What is the first mission of Cavite State University?",
+            "entities": [
+                {
+                    "entity": "first_cvsu_mission:first_cvsu_mission",
+                    "start": 12,
+                    "end": 53,
+                    "body": "first mission of Cavite State University?",
+                    "entities": []
+                }
+            ],
+            "traits": [
+                {
+                    "trait": "wit$sentiment",
+                    "value": "neutral"
+                },
+                {
+                    "trait": "informative",
+                    "value": "plain"
+                }
+            ],
+            "intent": "get_cvsu_mission"
+        },
+        {
+            "text": "What is the goals of cvsu-bacoor city campus?",
+            "entities": [
+                {
+                    "entity": "full_cvsu_goals:full_cvsu_goals",
+                    "start": 12,
+                    "end": 45,
+                    "body": "goals of cvsu-bacoor city campus?",
+                    "entities": []
+                }
+            ],
+            "traits": [
+                {
+                    "trait": "wit$sentiment",
+                    "value": "neutral"
+                },
+                {
+                    "trait": "informative",
+                    "value": "plain"
+                }
+            ],
+            "intent": "get_cvsu_goals"
+        },
+        {
+            "text": "What is the second mission of Cavite State University?",
+            "entities": [
+                {
+                    "entity": "second_cvsu_mission:second_cvsu_mission",
+                    "start": 12,
+                    "end": 54,
+                    "body": "second mission of Cavite State University?",
+                    "entities": []
+                }
+            ],
+            "traits": [
+                {
+                    "trait": "wit$sentiment",
+                    "value": "neutral"
+                },
+                {
+                    "trait": "informative",
+                    "value": "plain"
+                }
+            ],
+            "intent": "get_cvsu_mission"
+        }
+    ]
+}

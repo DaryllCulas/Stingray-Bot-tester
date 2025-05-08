@@ -1,0 +1,30 @@
+{
+    "name": "first_cvsu_mission",
+    "roles": [
+        "first_cvsu_mission"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "complete mission of Cavite State University?",
+            "synonyms": [
+                "complete mission of cavite state university?"
+            ]
+        },
+        {
+            "keyword": "first mission of Cavite State University?",
+            "synonyms": [
+                "first mission of cavite state university?"
+            ]
+        },
+        {
+            "keyword": "shall provide excellent, equitable and relevant educational opportunities in the arts, sciences and technology through quality instruction and responsive research and development activities.",
+            "synonyms": [
+                "shall provide excellent, equitable and relevant educational opportunities in the arts, sciences and technology through quality instruction and responsive research and development activities."
+            ]
+        }
+    ]
+}

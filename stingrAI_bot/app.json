@@ -1,0 +1,7 @@
+{
+    "version": 20200513,
+    "zip-command": "zip stingrAI_bot.zip stingrAI_bot\/app.json stingrAI_bot\/entities\/*.json stingrAI_bot\/intents\/*.json stingrAI_bot\/traits\/*.json stingrAI_bot\/utterances\/*.json stingrAI_bot\/composer\/*.json",
+    "name": "stingrAI_bot",
+    "lang": "en",
+    "timezone": "Asia\/Manila"
+}

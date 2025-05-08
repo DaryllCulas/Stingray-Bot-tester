@@ -1,0 +1,18 @@
+{
+    "name": "full_cvsu_goals",
+    "roles": [
+        "full_cvsu_goals"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "goals of cvsu-bacoor city campus?",
+            "synonyms": [
+                "goals of cvsu-bacoor city campus?"
+            ]
+        }
+    ]
+}
